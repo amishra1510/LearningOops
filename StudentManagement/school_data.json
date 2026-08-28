@@ -1,0 +1,53 @@
+{
+    "students": [
+        {
+            "name": "Aryan Singh",
+            "age": 20,
+            "email": "aryansingh@gmail.com",
+            "roll_no": "23",
+            "grades": {
+                "Maths": 90.0,
+                "Physics": 78.0
+            }
+        },
+        {
+            "name": "Vaibhav Yadav",
+            "age": 21,
+            "email": "vaibhavyadav1@gmail.com",
+            "roll_no": "15",
+            "grades": {
+                "English": 6.0
+            }
+        },
+        {
+            "name": "Suraj",
+            "age": 20,
+            "email": "surajsingh23@gmail.com",
+            "roll_no": "32",
+            "grades": {}
+        },
+        {
+            "name": "Aarav Jain",
+            "age": 19,
+            "email": "jainaarav4@gmail.com",
+            "roll_no": "6",
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Pawan Kumar",
+            "age": 38,
+            "email": "pawan.kumar@gmail.com",
+            "subject": "Physics",
+            "emp_id": "E124"
+        },
+        {
+            "name": "Yashwant Pal",
+            "age": 35,
+            "email": "yashwantpal@gmail.com",
+            "subject": "Chemistry",
+            "emp_id": "E101"
+        }
+    ]
+}
