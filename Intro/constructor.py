@@ -10,6 +10,8 @@ campus = Bags("Polyester", 2, 4)
 
 print(reebok.material)
 print(campus.material)
+print(reebok.pockets)
+print(campus.zips)
 
 
 
